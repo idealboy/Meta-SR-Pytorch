@@ -68,3 +68,4 @@ for IdxIm = 1:nb_im
         imwrite(image, NameLR, 'png');
     end
 end
+
