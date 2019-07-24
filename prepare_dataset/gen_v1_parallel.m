@@ -2,8 +2,8 @@ function generate_LR_metasr_X1_X4()
 %% settings
 
 data_set = 'MY'
-path_save = '/home/wangfengming/work/video-thumbnail/CARN-pytorch/dataset/MY/MY_train_HR_bicubic/';
-path_src = '/home/wangfengming/work/video-thumbnail/CARN-pytorch/dataset/MY/MY_train_HR/';
+path_save = 'MY_train_HR_bicubic/';
+path_src = 'MY_train_HR/';
 
 ext               =  {'*.png', '*.jpg', '*.jpeg'};
 filepaths           =  [];
